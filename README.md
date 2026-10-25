@@ -71,7 +71,7 @@ Calculation:
 
 Open circuit characteristics:
 
-<img width="1600" height="1505" alt="image" src="https://github.com/user-attachments/assets/87d2efa1-36f9-4340-89b5-9f8005c127b1" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/31fa7d58-097c-4406-9a86-548cc9f6f4b2" />
 
   
 Load Characteristics:
