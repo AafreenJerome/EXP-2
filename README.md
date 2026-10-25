@@ -76,7 +76,7 @@ Open circuit characteristics:
   
 Load Characteristics:
 
-<img width="1600" height="1164" alt="image" src="https://github.com/user-attachments/assets/661ad345-080c-4991-b679-f1763c08479a" />
+<img width="700" alt="crop3" src="https://github.com/user-attachments/assets/664aaad8-8611-4635-ae38-cee68d2edf0c" />
 
 
 Result:
